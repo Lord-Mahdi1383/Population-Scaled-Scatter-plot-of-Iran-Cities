@@ -1,4 +1,4 @@
-# Population-Scaled-Scatter-plot-of-Iran-Cities
+# Population Scaled Scatter plot of Iran Cities
 This Python script creates a population-scaled map visualization of major Iranian cities using Basemap and Matplotlib. The size and color of each city marker corresponds to its population, providing an intuitive geographical representation of population distribution across Iran.
 
 ## Features
