@@ -16,7 +16,7 @@ This Python script creates a population-scaled map visualization of major Irania
 # Installation
 ## 1- Clone the repositore
 ```bash
-git clone https://github.com/Lord-Mahdi1383/Population-Scaled-Scatter-plot-of-Iran-Cities.git
+git clone git@github.com:Lord-Mahdi1383/Population-Scaled-Scatter-plot-of-Iran-Cities.git
 cd Population-Scaled-Scatter-plot-of-Iran-Cities
 ```
 ## 2- Install Python dependencies
