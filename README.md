@@ -21,4 +21,4 @@ cd Population-Scaled-Scatter-plot-of-Iran-Cities
 ```
 ## 2- Install Python dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
